@@ -9,3 +9,5 @@ to 40 to begin a new game.
 Online I found a guide to colors that are easily distinguishable for people who are various types
 of color blind which is why I picked the colors that I did.
 
+I hope to add some features that allow for various forms of notation of types of damage and such but
+I am having issues displaying them in a way that does not clutter up the look too much.
