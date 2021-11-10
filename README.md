@@ -11,3 +11,5 @@ of color blind which is why I picked the colors that I did.
 
 I hope to add some features that allow for various forms of notation of types of damage and such but
 I am having issues displaying them in a way that does not clutter up the look too much.
+
+Tested on Note 5, Note 8, Note 9, Fold 3.
